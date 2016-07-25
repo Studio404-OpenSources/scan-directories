@@ -1,5 +1,5 @@
 # Introduction
-If you are not a server administrator, someone somehow uploads files on your server and you can not control that, the programm "Scan Directories" is for you ! It will notify any uploads you via email.
+ If you are not a system administrator and someone somehow uploads files on your server and you can’t control that, the programm "Scan Directories" is for you ! It will notify any uploads you via email.
 
 # Installation
 ```php 
